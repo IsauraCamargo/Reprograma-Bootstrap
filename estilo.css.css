@@ -1,0 +1,25 @@
+
+.container{
+    margin-top:5%;
+}
+.img{
+  margin-top:10%;
+
+}
+.carousel-inner{
+    max-height: 900px;
+    width: auto;
+    justify-content: center;
+    padding: 5%;
+}
+.card{  
+    padding: 5%;
+}
+.footer{
+    text-align: center;
+    font-size: small;
+    background-color: lightgreen;
+}
+
+
+
